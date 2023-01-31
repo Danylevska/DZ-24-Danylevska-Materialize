@@ -29,7 +29,7 @@ div.row{flex-basis: 350px;}
 
 div.col.s12.m7{width: 100%;}
 
-div.card-content p{width: 90%;}
+div.card-content p{margin-left: 11px;}
 
 
 .row p{font-size: 15px;
