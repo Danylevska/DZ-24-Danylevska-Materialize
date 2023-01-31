@@ -1,0 +1,50 @@
+body{margin: 0;}
+
+.wrapper{width: 100%;
+margin: auto;}
+
+.nav-wrapper {width: 70%;
+margin: auto;}
+
+p.center{font-size: 25px;
+font-weight: 300;}
+
+h1{margin-top: 80px;
+margin-bottom: 30px;}
+
+.button{margin-top: 20px;
+margin-bottom: 50px;}
+
+
+
+.section{display: flex;
+flex-direction: row;
+justify-content: center;
+width: 70%;
+margin: auto;
+gap: 10px;
+}
+
+div.row{flex-basis: 350px;}
+
+div.col.s12.m7{width: 100%;}
+
+div.card-content p{width: 90%;}
+
+
+.row p{font-size: 15px;
+font-weight: 300;}
+
+
+.flex{display: flex;
+flex-direction: row;}
+
+
+footer{margin-top: 50px;}
+
+div.col.l6.s12{width: 60%;}
+
+div.col.l4.offset-l2.s12{margin-left: 10px;}
+
+
+
